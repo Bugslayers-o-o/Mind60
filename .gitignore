@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+mind-sathi-71fee-firebase-adminsdk-fbsvc-86bfdceda4.json
+__pycache__/
+*.pyc
+.venv/
